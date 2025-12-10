@@ -83,20 +83,6 @@ This suggests micro-influencers might offer better ROI for brand partnerships.
 - Random Forest Classifier
 - Achieved **75% accuracy**
 
-## Visualizations
-
-### Dashboard
-![Dashboard](visualizations/12_dashboard.png)
-
-### Top 15 by Followers
-![Top Followers](visualizations/01_top15_followers.png)
-
-### Engagement by Follower Tier
-![Engagement Tiers](visualizations/07_engagement_by_tier.png)
-
-### Correlation Matrix
-![Correlations](visualizations/05_correlation_matrix.png)
-
 ## Requirements
 
 ```
@@ -105,12 +91,6 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-```
-
-## Usage
-
-```bash
-python analysis.py
 ```
 
 This will:
@@ -127,10 +107,3 @@ This will:
 3. **Look beyond USA** - Emerging markets offer untapped potential
 4. **Check engagement rates** - More reliable metric than raw follower count
 
-## Author
-
-[Your Name]
-
-## License
-
-MIT
